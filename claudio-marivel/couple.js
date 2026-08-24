@@ -1,1 +1,1 @@
-window.COUPLE='TEST';
+window.COUPLE='TEST2';
